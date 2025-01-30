@@ -13,7 +13,7 @@ Welcome to **LeetCodeX**! This is a collaborative repository where we solve Leet
 
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/your-username/LeetCodeX.git
+   git clone https://github.com/your-username/leetcodeX.git
    cd LeetCodeX
    ```
 
